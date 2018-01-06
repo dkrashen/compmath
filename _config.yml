@@ -1,0 +1,26 @@
+testing: true
+
+# Site settings
+# Course Info
+title: "Compuatational Mathematics VRG"
+email: "&#100;&#107;&#114;&#97;&#115;&#104;&#101;&#110;&#64;&#117;&#103;&#97;&#46;&#101;&#100;&#117;&#13;&#10;&#13;&#10;"
+tagline: "UGA MATH 8850, Spring 2018."
+description: "helping people to help computers help mathematics"
+instructor: "Danny Krashen"
+instructor-email: "dkrashen@uga.edu"
+office: "Boyd 437"
+office-phone: "(706) 542-2555"
+
+image_link: ""
+image_src: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Set_partitions_5%3B_circles.svg/2000px-Set_partitions_5%3B_circles.svg.png"
+baseurl: "/compmath"
+
+#url: "localhost:4000"
+url: "http://dkrashen.org"
+
+analytics_id: "UA-74503807-2"
+analytics: "true"
+
+# Build settings
+markdown: kramdown
+permalink: pretty
