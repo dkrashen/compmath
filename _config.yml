@@ -16,7 +16,8 @@ image_src: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Set_partit
 baseurl: "/compmath"
 
 #url: "localhost:4000"
-url: "http://dkrashen.org"
+#url: "http://dkrashen.org"
+url: "http://compvrg.github.io"
 
 analytics_id: "UA-74503807-2"
 analytics: "true"
